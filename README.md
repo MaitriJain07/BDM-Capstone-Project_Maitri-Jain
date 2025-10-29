@@ -32,4 +32,4 @@ All results and methodologies are thoroughly documented in the attached reports.
 
 ---
 
-⭐ *This project demonstrates practical application of business analytics concepts in real-world settings, integrating Excel-based data modeling with strategic decision-making.*
+ *This project demonstrates practical application of business analytics concepts in real-world settings, integrating Excel-based data modeling with strategic decision-making.*
